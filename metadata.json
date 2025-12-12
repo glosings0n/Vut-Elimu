@@ -1,0 +1,8 @@
+{
+  "name": "Vut'Elimu",
+  "description": "An inclusive AI-powered Tug-of-War educational game for children using Gemini 3 Pro capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
